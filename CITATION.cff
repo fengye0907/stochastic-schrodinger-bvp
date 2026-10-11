@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Numerical experiments for: Stochastic Schrödinger equation with boundary condition in time and additive noise"
+authors:
+  - family-names: Feng
+    given-names: Zijie
+    email: fengye0907@outlook.com
+    affiliation: "Department of Mathematics, Linnaeus University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Stochastic Schrödinger equation with boundary condition in time and additive noise: Truncation error and simulation algorithms"
+  authors:
+    - family-names: Pettersson
+      given-names: Roger
+    - family-names: Sirma
+      given-names: Ali
+    - family-names: Feng
+      given-names: Zijie
